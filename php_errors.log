@@ -1,0 +1,26 @@
+[19-Feb-2018 10:02:19 UTC] PHP Warning:  require(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php on line 3
+[19-Feb-2018 10:02:19 UTC] PHP Stack trace:
+[19-Feb-2018 10:02:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:0
+[19-Feb-2018 10:02:19 UTC] PHP Fatal error:  require(): Failed opening required 'functions.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php on line 3
+[19-Feb-2018 10:02:19 UTC] PHP Stack trace:
+[19-Feb-2018 10:02:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:0
+[19-Feb-2018 10:02:53 UTC] PHP Warning:  include(template/template.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/trollwebs-backend-test/exercise1/functions.php on line 68
+[19-Feb-2018 10:02:53 UTC] PHP Stack trace:
+[19-Feb-2018 10:02:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:0
+[19-Feb-2018 10:02:53 UTC] PHP   2. run() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:4
+[19-Feb-2018 10:02:53 UTC] PHP Warning:  include(): Failed opening 'template/template.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/trollwebs-backend-test/exercise1/functions.php on line 68
+[19-Feb-2018 10:02:53 UTC] PHP Stack trace:
+[19-Feb-2018 10:02:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:0
+[19-Feb-2018 10:02:53 UTC] PHP   2. run() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:4
+[19-Feb-2018 10:03:44 UTC] PHP Warning:  include(pages/404.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/trollwebs-backend-test/exercise1/functions.php on line 59
+[19-Feb-2018 10:03:44 UTC] PHP Stack trace:
+[19-Feb-2018 10:03:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:0
+[19-Feb-2018 10:03:44 UTC] PHP   2. run() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:4
+[19-Feb-2018 10:03:44 UTC] PHP   3. include() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/functions.php:68
+[19-Feb-2018 10:03:44 UTC] PHP   4. pageContent() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/templates/template.php:21
+[19-Feb-2018 10:03:44 UTC] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/trollwebs-backend-test/exercise1/functions.php on line 59
+[19-Feb-2018 10:03:44 UTC] PHP Stack trace:
+[19-Feb-2018 10:03:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:0
+[19-Feb-2018 10:03:44 UTC] PHP   2. run() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/index.php:4
+[19-Feb-2018 10:03:44 UTC] PHP   3. include() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/functions.php:68
+[19-Feb-2018 10:03:44 UTC] PHP   4. pageContent() /home/ubuntu/workspace/trollwebs-backend-test/exercise1/templates/template.php:21
