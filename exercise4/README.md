@@ -36,15 +36,6 @@ Given a length as integer, return
 
 -----------------------
 GUIDING LIGHT
-https://askubuntu.com/questions/53846/how-to-get-the-md5-hash-of-a-string-directly-in-the-terminal
-https://askubuntu.com/questions/447247/run-php-from-the-command-line
-https://www.cyberciti.biz/faq/linux-md5-hash-string-based-on-any-input-string/
-https://www.w3schools.com/php/func_string_sha1.asp
-https://www.w3schools.com/php/func_string_md5.asp
-https://www.w3schools.com/php/php_ref_string.asp
-
-CARBON: 
-    https://github.com/briannesbitt/Carbon
     
 PHAR: 
     https://secure.php.net/manual/en/phar.creating.intro.php

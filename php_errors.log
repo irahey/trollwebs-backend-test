@@ -216,3 +216,83 @@
 [20-Feb-2018 13:39:19 UTC] PHP   3. datestamp() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
 [20-Feb-2018 13:39:19 UTC] PHP   4. Carbon\Carbon->diffForHumans() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:75
 [20-Feb-2018 13:44:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 77
+[20-Feb-2018 19:00:01 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 82
+[20-Feb-2018 19:00:01 UTC] PHP Stack trace:
+[20-Feb-2018 19:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:00:01 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:00:01 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:00:01 UTC] PHP   4. date_format() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:82
+[20-Feb-2018 19:00:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 88
+[20-Feb-2018 19:00:01 UTC] PHP Stack trace:
+[20-Feb-2018 19:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:00:01 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:00:01 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:00:01 UTC] PHP   4. getAge() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:83
+[20-Feb-2018 19:00:36 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 82
+[20-Feb-2018 19:00:36 UTC] PHP Stack trace:
+[20-Feb-2018 19:00:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:00:36 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:00:36 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:00:36 UTC] PHP   4. date_format() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:82
+[20-Feb-2018 19:02:13 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 88
+[20-Feb-2018 19:02:13 UTC] PHP Stack trace:
+[20-Feb-2018 19:02:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:02:13 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:02:13 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:02:13 UTC] PHP   4. getAge() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:83
+[20-Feb-2018 19:02:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 88
+[20-Feb-2018 19:02:39 UTC] PHP Stack trace:
+[20-Feb-2018 19:02:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:02:39 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:02:39 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:02:39 UTC] PHP   4. getAge() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:83
+[20-Feb-2018 19:06:31 UTC] PHP Warning:  date_format() expects parameter 1 to be DateTimeInterface, boolean given in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 82
+[20-Feb-2018 19:06:31 UTC] PHP Stack trace:
+[20-Feb-2018 19:06:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:06:31 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:06:31 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:06:31 UTC] PHP   4. date_format() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:82
+[20-Feb-2018 19:08:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 88
+[20-Feb-2018 19:08:01 UTC] PHP Stack trace:
+[20-Feb-2018 19:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:08:01 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:08:01 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:08:01 UTC] PHP   4. getAge() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:83
+[20-Feb-2018 19:08:58 UTC] PHP Catchable fatal error:  Argument 1 passed to Carbon\Carbon::diffForHumans() must be an instance of Carbon\Carbon, instance of DateTime given, called in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 83 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 2789
+[20-Feb-2018 19:08:58 UTC] PHP Stack trace:
+[20-Feb-2018 19:08:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:08:58 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:08:58 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:08:58 UTC] PHP   4. Carbon\Carbon->diffForHumans() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:83
+[20-Feb-2018 19:10:21 UTC] PHP Catchable fatal error:  Argument 1 passed to Carbon\Carbon::diffForHumans() must be an instance of Carbon\Carbon, instance of DateTime given, called in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 83 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 2789
+[20-Feb-2018 19:10:21 UTC] PHP Stack trace:
+[20-Feb-2018 19:10:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 19:10:21 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 19:10:21 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 19:10:21 UTC] PHP   4. Carbon\Carbon->diffForHumans() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:83
+[20-Feb-2018 19:13:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct() expects parameter 1 to be string, object given' in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php:291
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php(291): DateTime->__construct(Object(DateTime), Object(DateTimeZone))
+#1 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php(324): Carbon\Carbon->__construct(Object(DateTime), NULL)
+#2 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php(83): Carbon\Carbon::parse(Object(DateTime))
+#3 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php(22): timediff()
+#4 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php(8): mainmenu()
+#5 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 291
+[20-Feb-2018 19:23:16 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Unexpected data found.
+Unexpected data found.
+Unexpected data found.' in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php:582
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php(465): Carbon\Carbon::createFromFormat('Y-n-j G:i:s', '1999?-9?-9? 19:...', NULL)
+#1 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php(79): Carbon\Carbon::create('1999?', '9?', '9?')
+#2 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php(22): timediff()
+#3 /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php(8): mainmenu()
+#4 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 582
+[20-Feb-2018 19:32:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 65
+[20-Feb-2018 20:06:16 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php on line 110
+[20-Feb-2018 20:06:16 UTC] PHP Stack trace:
+[20-Feb-2018 20:06:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:0
+[20-Feb-2018 20:06:16 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
+[20-Feb-2018 20:06:16 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
+[20-Feb-2018 20:06:16 UTC] PHP   4. validday() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:68
