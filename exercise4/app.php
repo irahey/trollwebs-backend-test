@@ -10,7 +10,7 @@ function mainmenu() {
     echo "\n";
     echo "Select from the following options" . "\n" ;
     echo "(a) Password hasher" . "\n" ;
-    echo "(b) Date" . "\n" ;
+    echo "(b) TIme difference" . "\n" ;
     echo "(c) Password generator" . "\n" ;
     echo "(d) Exit" . "\n" ;
     

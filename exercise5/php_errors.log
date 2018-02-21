@@ -1,0 +1,24 @@
+[21-Feb-2018 12:34:17 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 10
+[21-Feb-2018 12:34:18 UTC] PHP Stack trace:
+[21-Feb-2018 12:34:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:34:18 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 10
+[21-Feb-2018 12:34:18 UTC] PHP Stack trace:
+[21-Feb-2018 12:34:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:34:18 UTC] PHP Warning:  include(hybridauth/Hybrid/Auth.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 11
+[21-Feb-2018 12:34:18 UTC] PHP Stack trace:
+[21-Feb-2018 12:34:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:34:18 UTC] PHP Warning:  include(): Failed opening 'hybridauth/Hybrid/Auth.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 11
+[21-Feb-2018 12:34:18 UTC] PHP Stack trace:
+[21-Feb-2018 12:34:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:34:18 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 18
+[21-Feb-2018 12:34:18 UTC] PHP Stack trace:
+[21-Feb-2018 12:34:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:35:54 UTC] PHP Warning:  include(hybridauth/Hybrid/Auth.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 11
+[21-Feb-2018 12:35:54 UTC] PHP Stack trace:
+[21-Feb-2018 12:35:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:35:54 UTC] PHP Warning:  include(): Failed opening 'hybridauth/Hybrid/Auth.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 11
+[21-Feb-2018 12:35:54 UTC] PHP Stack trace:
+[21-Feb-2018 12:35:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0
+[21-Feb-2018 12:35:54 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php on line 18
+[21-Feb-2018 12:35:54 UTC] PHP Stack trace:
+[21-Feb-2018 12:35:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/hybridauth/public/index.php:0

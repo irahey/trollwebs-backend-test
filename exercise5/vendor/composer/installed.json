@@ -1,0 +1,106 @@
+[
+    {
+        "name": "hybridauth/hybridauth",
+        "version": "v3.0.0-rc.2",
+        "version_normalized": "3.0.0.0-RC2",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/hybridauth/hybridauth.git",
+            "reference": "f90cae17dfd901feed669c2dab9f4e178c09b23b"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/hybridauth/hybridauth/zipball/f90cae17dfd901feed669c2dab9f4e178c09b23b",
+            "reference": "f90cae17dfd901feed669c2dab9f4e178c09b23b",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "ext-curl": "*",
+            "phpunit/phpunit": "~4.8.35"
+        },
+        "time": "2018-02-10 09:07:53",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.0-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Hybridauth\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Miled",
+                "email": "hybridauth@gmail.com"
+            }
+        ],
+        "description": "PHP Social Authentication Library",
+        "homepage": "https://hybridauth.github.io",
+        "keywords": [
+            "Authentication",
+            "OpenId",
+            "api",
+            "authorization",
+            "facebook",
+            "google",
+            "oauth",
+            "social",
+            "twitter"
+        ]
+    },
+    {
+        "name": "slim/slim",
+        "version": "2.1.0",
+        "version_normalized": "2.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/slimphp/Slim.git",
+            "reference": "6de1151b3cb0b44ab489f3bf7d408ce4719e61e3"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/slimphp/Slim/zipball/6de1151b3cb0b44ab489f3bf7d408ce4719e61e3",
+            "reference": "6de1151b3cb0b44ab489f3bf7d408ce4719e61e3",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2012-09-12 16:07:46",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Slim": "."
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Josh Lockhart",
+                "email": "info@joshlockhart.com",
+                "homepage": "http://www.joshlockhart.com/"
+            }
+        ],
+        "description": "Slim Framework, a PHP micro framework",
+        "homepage": "http://github.com/codeguy/Slim",
+        "keywords": [
+            "microframework",
+            "rest",
+            "router"
+        ]
+    }
+]

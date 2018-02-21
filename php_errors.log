@@ -296,3 +296,18 @@ Stack trace:
 [20-Feb-2018 20:06:16 UTC] PHP   2. mainmenu() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:8
 [20-Feb-2018 20:06:16 UTC] PHP   3. timediff() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:22
 [20-Feb-2018 20:06:16 UTC] PHP   4. validday() /home/ubuntu/workspace/trollwebs-backend-test/exercise4/app.php:68
+[21-Feb-2018 11:05:09 UTC] PHP Fatal error:  Call to a member function singleton() on a non-object in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php on line 10
+[21-Feb-2018 11:05:09 UTC] PHP Stack trace:
+[21-Feb-2018 11:05:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php:0
+[21-Feb-2018 11:28:07 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php on line 13
+[21-Feb-2018 11:28:07 UTC] PHP Stack trace:
+[21-Feb-2018 11:28:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php:0
+[21-Feb-2018 11:30:25 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php on line 15
+[21-Feb-2018 11:30:25 UTC] PHP Stack trace:
+[21-Feb-2018 11:30:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php:0
+[21-Feb-2018 11:30:39 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php on line 15
+[21-Feb-2018 11:30:39 UTC] PHP Stack trace:
+[21-Feb-2018 11:30:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php:0
+[21-Feb-2018 11:33:54 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php on line 15
+[21-Feb-2018 11:33:54 UTC] PHP Stack trace:
+[21-Feb-2018 11:33:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php:0
