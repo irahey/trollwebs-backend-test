@@ -6,13 +6,13 @@ Make public/index.php only accessible after you sign in with any social media ac
 
 ### Requirements
 
-* You can use any existing open-source package you need. YES, https://github.com/openid/php-openid
+* You can use any existing open-source package you need. YES, http://hayageek.com/login-with-facebook-twitter-google-php/
 
 ### Extra credit
 
 * Use composer to include packages. YES
 * Show logged in users name on the page.
-* Implement a logout button.
+* Implement a logout button. YES
 * 
 ----------------------------------
 GUIDING LIGHT:
@@ -32,4 +32,4 @@ COMPOSER:
 libraries:
 install composer
 
-http://hayageek.com/login-with-facebook-twitter-google-php/
+

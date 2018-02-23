@@ -311,3 +311,141 @@ Stack trace:
 [21-Feb-2018 11:33:54 UTC] PHP Fatal error:  Class 'Hybrid_Auth' not found in /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php on line 15
 [21-Feb-2018 11:33:54 UTC] PHP Stack trace:
 [21-Feb-2018 11:33:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/trollwebs-backend-test/exercise5/index.php:0
+[21-Feb-2018 17:10:13 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/tests/Unit/ArrayHelperTest.php on line 43
+[21-Feb-2018 17:35:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/tests/Unit/ArrayHelperTest.php on line 27
+[21-Feb-2018 17:35:46 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/tests/Unit/ArrayHelperTest.php on line 27
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: 2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: input in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 24
+[22-Feb-2018 09:38:52 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 24
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: input1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 09:38:52 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: input2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[22-Feb-2018 09:38:52 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 27
+[22-Feb-2018 09:38:52 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 27
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: input4 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 28
+[22-Feb-2018 09:38:52 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 28
+[22-Feb-2018 09:38:52 UTC] PHP Notice:  Undefined variable: input5 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 29
+[22-Feb-2018 09:38:52 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 29
+[22-Feb-2018 09:39:41 UTC] PHP Notice:  Undefined variable: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[22-Feb-2018 09:39:41 UTC] PHP Notice:  Undefined variable: 2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[22-Feb-2018 09:39:41 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 24
+[22-Feb-2018 09:42:33 UTC] PHP Notice:  Undefined variable: r in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 11
+[22-Feb-2018 09:46:00 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, resource given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 09:46:00 UTC] PHP Notice:  Undefined variable: handlemain in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 11
+[22-Feb-2018 09:46:00 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 11
+[22-Feb-2018 09:46:16 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, resource given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 09:46:16 UTC] PHP Notice:  Undefined variable: hinput in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 11
+[22-Feb-2018 09:46:16 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 11
+[22-Feb-2018 10:07:03 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 37
+[22-Feb-2018 11:14:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 41
+[22-Feb-2018 11:14:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 41
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:03 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:16:27 UTC] PHP Warning:  strpos(): needle is not a string or an integer in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[22-Feb-2018 11:38:37 UTC] PHP Notice:  Undefined variable: outp in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 35
+[22-Feb-2018 11:38:53 UTC] PHP Notice:  Undefined variable: outp in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 35
+[22-Feb-2018 12:13:05 UTC] PHP Notice:  Undefined variable: str2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 12:13:05 UTC] PHP Notice:  Undefined variable: str2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 12:13:05 UTC] PHP Notice:  Undefined variable: str2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 12:13:19 UTC] PHP Notice:  Undefined variable: str2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 12:13:19 UTC] PHP Notice:  Undefined variable: str2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 12:13:19 UTC] PHP Notice:  Undefined variable: str2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[22-Feb-2018 13:17:01 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:17:23 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:17:46 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:18:46 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:19:40 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:19:54 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:20:32 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:21:07 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:22:49 UTC] PHP Notice:  Undefined variable: input3 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 15
+[22-Feb-2018 13:25:30 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 29
+[22-Feb-2018 13:25:30 UTC] PHP Notice:  Undefined variable: time in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 29
+[22-Feb-2018 22:40:59 UTC] PHP Fatal error:  Uncaught PHPUnit\Runner\Exception: Class '' could not be found in '/home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/phpunit'. in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/BaseTestRunner.php(130): PHPUnit\Runner\StandardTestSuiteLoader->load('', '/home/ubuntu/wo...')
+#1 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/BaseTestRunner.php(73): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('', '/home/ubuntu/wo...')
+#2 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/TextUI/Command.php(162): PHPUnit\Runner\BaseTestRunner->getTest('', '/home/ubuntu/wo...', Array)
+#3 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/TextUI/Command.php(141): PHPUnit\TextUI\Command->run(Array, true)
+#4 /home/ubuntu/w in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php on line 101
+[22-Feb-2018 22:41:10 UTC] PHP Fatal error:  Uncaught PHPUnit\Runner\Exception: Class '' could not be found in '/home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/phpunit'. in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/BaseTestRunner.php(130): PHPUnit\Runner\StandardTestSuiteLoader->load('', '/home/ubuntu/wo...')
+#1 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/BaseTestRunner.php(73): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('', '/home/ubuntu/wo...')
+#2 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/TextUI/Command.php(162): PHPUnit\Runner\BaseTestRunner->getTest('', '/home/ubuntu/wo...', Array)
+#3 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/TextUI/Command.php(141): PHPUnit\TextUI\Command->run(Array, true)
+#4 /home/ubuntu/w in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php on line 101
+[22-Feb-2018 22:41:22 UTC] PHP Fatal error:  Uncaught PHPUnit\Runner\Exception: Class '' could not be found in '/home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/phpunit'. in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php:101
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/BaseTestRunner.php(130): PHPUnit\Runner\StandardTestSuiteLoader->load('', '/home/ubuntu/wo...')
+#1 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/BaseTestRunner.php(73): PHPUnit\Runner\BaseTestRunner->loadSuiteClass('', '/home/ubuntu/wo...')
+#2 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/TextUI/Command.php(162): PHPUnit\Runner\BaseTestRunner->getTest('', '/home/ubuntu/wo...', Array)
+#3 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/TextUI/Command.php(141): PHPUnit\TextUI\Command->run(Array, true)
+#4 /home/ubuntu/w in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/vendor/phpunit/phpunit/src/Runner/StandardTestSuiteLoader.php on line 101
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:24:15 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:10 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:31 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:31 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:31 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:31 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:31 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:25:31 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:36 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:36 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:36 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:36 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:36 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:36 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:48 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:48 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:48 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:48 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:48 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:26:48 UTC] PHP Warning:  preg_match(): No ending delimiter 'Ã' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[23-Feb-2018 11:31:16 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:16 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:16 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:16 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:16 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:16 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:46 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:46 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:46 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:46 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:46 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[23-Feb-2018 11:31:46 UTC] PHP Warning:  preg_match(): Unknown modifier ']' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30

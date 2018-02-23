@@ -10,18 +10,8 @@ class ArrayHelperTest extends TestCase
     public function test_it_flattens_a_multidimensional_array()
     {
         $helper = new ArrayHelper;
-        $array = [
-            "foo" => [
-                "a" => 1,
-                "b" => 2,
-                "c" => 3,
-            ],
-            "bar" => [
-                "d" => 4,
-                "e" => 5,
-                "f" => 6,
-            ],
-        ];
+        $array = array("foo" => array("a" => 1,"b" => 2, "c" => 3,), 
+                        "bar" => array("d" => 4, "e" => 5,"f" => 6,));
         $expected = [
             "foo.a" => 1,
             "foo.b" => 2,
@@ -32,25 +22,14 @@ class ArrayHelperTest extends TestCase
         ];
 
         $flatten = $helper->flatten($array);
-
         $this->assertEquals($expected, $flatten);
     }
 
     public function test_it_can_get_a_value_from_a_multidimensional_array_using_dot_notation()
     {
         $helper = new ArrayHelper;
-        $array = [
-            "foo" => [
-                "a" => 1,
-                "b" => 2,
-                "c" => 3,
-            ],
-            "bar" => [
-                "d" => 4,
-                "e" => 5,
-                "f" => 6,
-            ],
-        ];
+        $array = array("foo" => array("a" => 1,"b" => 2, "c" => 3,), 
+                        "bar" => array("d" => 4, "e" => 5,"f" => 6,));
 
         $this->assertEquals(1, $helper->get($array, "foo.a"));
         $this->assertEquals(3, $helper->get($array, "foo.c"));

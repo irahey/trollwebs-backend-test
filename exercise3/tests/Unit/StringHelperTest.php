@@ -7,6 +7,7 @@ use Trollweb\StringHelper;
 
 class StringHelperTest extends TestCase
 {
+
     public function test_it_converts_to_camel_case()
     {
         $helper = new StringHelper;
