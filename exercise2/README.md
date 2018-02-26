@@ -14,7 +14,7 @@ Make a simple blog system with vanilla PHP.
 
 * The backend should be password-protected. YES
 * Don't use any existing PHP frameworks or packages. YES
-* Spend little (or no time at all) on the design and CSS.
+* Spend little (or no time at all) on the design and CSS. YES
 * Use a CSS framework if you have to make it pretty. 
 
 ### Extra credit

@@ -1,0 +1,71 @@
+<?php
+
+$value = current($rules);
+if $value = type
+$key = key($rules);
+switch ($key) 
+    case 'integer'
+    case 'bool'
+    case 'string'
+    case 'array'
+    case 'object'
+    case 'str int fl'
+elseif $value = min
+$key = key($rules);
+switch ($key) 
+    case $key[0]; //3
+    case $key[0] //4
+        $max = rules[1]
+        if max > 7 && strpos(input, $key[3])
+elseif $value = max
+$key = key($rules);
+switch ($key) 
+    case $key[0]; //5
+    case $key[0] //7
+elseif $value = contains
+$key = key($rules);
+switch ($key) 
+    case $key[0]; //5
+    case $key[0] //7
+
+?>
+
+
+/////////////////////////////////
+
+if (in_array("min", $rules, true)){
+    if length > min
+        false
+    if max() !== null
+    else
+    do nothing
+} elseif (in_array("min", $rules, true)){  
+} elseif (in_array("max", $rules)){  
+} elseif (in_array("type", $rules)){ 
+
+/////////////////////////////////
+
+$rules = ["min" => 4, "max" => 7, "contains" => "bar"];
+$content = "foobar";
+ip_addresses($content, $rules);
+
+
+function ip_addresses($content, $rules) {
+    $rules = array_values($rules);
+
+$length = intval(strlen($content));
+$min =intval($rules[0]);
+$max = intval($rules[1]);
+$bar = $rules[2];
+echo $max . " and " . $min. " and " .$bar;
+         if ($length >=$min && $length <= $max){
+            if(strpos($content, $bar)!== false){
+                
+               echo "working"."\n";
+            }else {
+                echo "false1"."\n";
+            }
+        }else {
+            echo "falsey"."\n";
+        }
+ }
