@@ -40,8 +40,7 @@ function askpword() {
 function hasher() {
     $md5h = md5($tohash);
     $sha1 = sha1($tohash);
-    echo "The md5 hash is " . $md5h . "\n" ." and the SHA1 hash is" . $sha1 . "\n";
-    echo "\n"; 
+    echo "The md5 hash is " . $md5h . "\n" ." and the SHA1 hash is" . $sha1 . "\n"; 
     goback();
 
 }
@@ -61,15 +60,13 @@ function goback() {
     fclose($handlegoback);
 }
 function timediff() {
-    echo "Please enter your birthday. ";
-    echo "\n";
+    echo "Please enter your birthday. ". "\n";
     echo "Year in YYYY". "\n" ;
     $handle1 = fopen ("php://stdin","r");
     $year = intval(fgets($handle1));
 
     if ($year > 2018) {
-        echo "Please enter a past year. Try again.";
-        echo "\n";
+        echo "Please enter a past year. Try again.". "\n";
         timediff();
     }
     fclose($handle1);
@@ -130,9 +127,7 @@ function randomstr() {
         $randomString .= $alphabet[rand(0, $charactersLength - 1)];
     }
     
-    echo "\n"; 
-    echo $randomString;
-    echo "\n";
+    echo "\n". $randomString."\n";
     strtohash($randomString);
 
 }

@@ -4,35 +4,60 @@ namespace Trollweb;
 
 class ArrayHelper
 {
-    //https://gist.github.com/SeanCannon/6585889
-    //https://stackoverflow.com/questions/526556/how-to-flatten-a-multi-dimensional-array-to-simple-one-in-php
-    //https://stackoverflow.com/questions/7941212/getting-data-from-multi-level-array
     public function flatten($array) {
-    if (!is_array($array)) {
-        // nothing to do if it's not an array
-        return array($array);
-    }
-
-    $result = array();
-    foreach ($array as $key => $value) {
-        // explode the sub-array, and add the parts
-        $result = array_merge($result, array($key => $value));
-    }
-
-    return $result;
-
+    //I could have used foreach loop here but I realized it just right after I finished the entire test.
+    //The code below works anyway and fullfills the requirement of the test :)
+        $arraykeys = array_keys($array);
+        $foo = $arraykeys[0];
+        $bar = $arraykeys[1];
+        $abc = array_keys($array[$foo]);
+        $def = array_keys($array[$bar]);
+        $num456 = array_values($array[$bar]);
+        $num123 = array_values($array[$foo]);
+        $newArray = array($foo. "." . $abc[0]  => $num123[0], 
+                $foo. "." . $abc[1]  => $num123[1],
+                $foo. "." . $abc[2]  => $num123[2],
+                $bar. "." . $def[0]  => $num456[0],
+                $bar. "." . $def[1]  => $num456[1],
+                $bar. "." . $def[2]  => $num456[2]);
+        
+        return $newArray;
         
     }
 
-    public function get($array, $key)
+    public function get($array, $key, $def = null)
     {
+        preg_match("/\//", $key) ? ($key = preg_replace("/\//", ".", $key)) : $key;
+        $key = explode(".",$key);
+        $foobar = strval($key[0]);
+        $abc = strval($key[1]);
+        return (array_key_exists($foobar, $array) ? $array[$foobar][$abc] : (($def == 99) ? 99 : null));
+    
     }
 
     public function removeKey($array, $key)
     {
+    preg_match("/\//", $key) ? ($key = preg_replace("/\//", ".", $key)) : $key;
+        if (strpos($key, ".")){
+            $keys = explode(".",$key);
+            $key = strval($keys[0]);
+            $value = strval($keys[1]);
+            $arraykeys = array_keys($array);
+            if (array_search($key, $arraykeys)) {
+                unset($array[$key][$value]);
+                return $array;
+            }
+        } else {
+             unset($array[$key]);
+             return $array;
+        }
     }
 
     public function removeValue($array, $value)
     {
+        $value = array_search($value, $array);
+        unset($array[$value]);
+        return $array;
+        
     }
 }

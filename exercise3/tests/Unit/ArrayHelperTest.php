@@ -41,8 +41,8 @@ class ArrayHelperTest extends TestCase
 
     public function test_it_searches_for_and_deletes_a_value_from_an_array()
     {
-        $helper = new ArrayHelper;
-        $array = [
+        $helper = new ArrayHelper();
+       $array = [
             "foo" => "one",
             "bar" => ["two", "three"],
             "baz" => [
@@ -104,3 +104,7 @@ class ArrayHelperTest extends TestCase
         $this->assertEquals($expected, $helper->removeKey($array, "baz/four"));
     }
 }
+
+
+
+

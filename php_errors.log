@@ -9732,3 +9732,327 @@ Stack trace:
 [26-Feb-2018 10:12:42 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 131
 [26-Feb-2018 10:12:42 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 131
 [26-Feb-2018 10:12:42 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 131
+[26-Feb-2018 10:39:00 UTC] PHP Notice:  Undefined variable: rules in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 4
+[26-Feb-2018 10:39:00 UTC] PHP Warning:  key() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 4
+[26-Feb-2018 10:39:00 UTC] PHP Notice:  Undefined variable: rules in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 5
+[26-Feb-2018 10:39:00 UTC] PHP Warning:  current() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 5
+[26-Feb-2018 10:39:13 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:40:04 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:41:03 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:43:10 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:43:10 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 7
+[26-Feb-2018 10:43:10 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:43:10 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 9
+[26-Feb-2018 10:43:38 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:43:38 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 7
+[26-Feb-2018 10:43:38 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:43:38 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 9
+[26-Feb-2018 10:51:02 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 5
+[26-Feb-2018 10:51:02 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 5
+[26-Feb-2018 10:51:02 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:51:02 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:51:16 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 5
+[26-Feb-2018 10:51:16 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 5
+[26-Feb-2018 10:51:16 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:51:16 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 6
+[26-Feb-2018 10:51:27 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:51:27 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:51:43 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:51:43 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:52:06 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:52:06 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 10:52:52 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 8
+[26-Feb-2018 11:03:13 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 10
+[26-Feb-2018 11:03:13 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 11
+[26-Feb-2018 11:03:13 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 12
+[26-Feb-2018 11:03:48 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 10
+[26-Feb-2018 11:03:48 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 11
+[26-Feb-2018 11:03:48 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 12
+[26-Feb-2018 11:03:59 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 11
+[26-Feb-2018 11:03:59 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 12
+[26-Feb-2018 11:10:56 UTC] PHP Warning:  array_values() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:11:09 UTC] PHP Warning:  current() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:11:28 UTC] PHP Warning:  current() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:11:32 UTC] PHP Warning:  current() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:12:53 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:13:28 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:18:41 UTC] PHP Warning:  preg_split(): Compilation failed: missing terminating ] for character class at offset 4 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:19:31 UTC] PHP Warning:  preg_split(): Compilation failed: missing terminating ] for character class at offset 4 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:19:46 UTC] PHP Warning:  preg_split(): Compilation failed: missing terminating ] for character class at offset 4 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:20:27 UTC] PHP Warning:  preg_split(): Compilation failed: missing terminating ] for character class at offset 4 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:27:52 UTC] PHP Warning:  preg_match(): No ending delimiter '/' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:29:12 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:29:32 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:30:16 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:30:57 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:31:08 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:31:18 UTC] PHP Warning:  preg_match(): Unknown modifier '/' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:34:01 UTC] PHP Warning:  preg_match(): No ending delimiter '/' found in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 16
+[26-Feb-2018 11:38:20 UTC] PHP Notice:  Undefined variable: key1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 18
+[26-Feb-2018 11:41:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 17
+[26-Feb-2018 11:59:33 UTC] PHP Warning:  array_values() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 13
+[26-Feb-2018 11:59:50 UTC] PHP Warning:  array_values() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 13
+[26-Feb-2018 12:00:08 UTC] PHP Warning:  array_values() expects parameter 1 to be array, integer given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 14
+[26-Feb-2018 12:01:30 UTC] PHP Notice:  Undefined index: foo in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:01:30 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:01:57 UTC] PHP Notice:  Undefined index: foo in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:02:05 UTC] PHP Notice:  Undefined index: foo in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:02:46 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:02:55 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:03:16 UTC] PHP Notice:  Undefined offset: 2 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 16
+[26-Feb-2018 12:11:03 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:11:44 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:11:44 UTC] PHP Warning:  key() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:12:09 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:16:02 UTC] PHP Notice:  Undefined offset: 0 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:16:02 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:17:42 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:17:42 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:18:38 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:18:38 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 18
+[26-Feb-2018 12:20:08 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 17
+[26-Feb-2018 12:28:06 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox2.php on line 19
+[26-Feb-2018 12:34:03 UTC] PHP Parse error:  syntax error, unexpected '99' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:34:21 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:34:21 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:34:21 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:34:21 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:34:21 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:37:02 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:37:02 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:37:02 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:37:02 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:37:02 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:18 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:18 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:18 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:18 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:18 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:18 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:18 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:18 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:18 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:18 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:32 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:32 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:32 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:32 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:32 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:32 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:32 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:32 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:39:32 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:39:32 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 22
+[26-Feb-2018 12:42:42 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:42:42 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:42:42 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:42:42 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:42:42 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:42:42 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 21
+[26-Feb-2018 12:43:12 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:12 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:12 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:12 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:12 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:12 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 21
+[26-Feb-2018 12:43:22 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 6 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:22 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 7 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:22 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 8 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:22 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 9 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:22 UTC] PHP Warning:  Missing argument 3 for get(), called in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 10 and defined in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 14
+[26-Feb-2018 12:43:22 UTC] PHP Notice:  Undefined variable: def in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 21
+[27-Feb-2018 08:27:23 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 37
+[27-Feb-2018 08:27:38 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 37
+[27-Feb-2018 08:29:43 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 40
+[27-Feb-2018 08:29:43 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 40
+[27-Feb-2018 08:29:43 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 40
+[27-Feb-2018 08:40:11 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 36
+[27-Feb-2018 08:41:08 UTC] PHP Notice:  Undefined offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 36
+[27-Feb-2018 08:41:08 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 40
+[27-Feb-2018 08:41:08 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 40
+[27-Feb-2018 08:41:08 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 40
+[27-Feb-2018 09:35:48 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:37:54 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:37:54 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:37:54 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:37:54 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:38:49 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:38:49 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:38:49 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:38:49 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:38:49 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:38:49 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:38:49 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:16 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 43
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 41
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 41
+[27-Feb-2018 09:39:39 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 41
+[27-Feb-2018 09:39:39 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:39 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:39:51 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:40:43 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:40:43 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:40:43 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:40:43 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  Undefined index:  in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 42
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  String offset cast occurred in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Warning:  Illegal string offset 'four' in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:01 UTC] PHP Notice:  Undefined index: b in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:38 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:41:38 UTC] PHP Notice:  Undefined index:  in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:42:06 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:42:06 UTC] PHP Notice:  Undefined index:  in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 45
+[27-Feb-2018 09:42:36 UTC] PHP Notice:  Undefined variable: value in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 44
+[27-Feb-2018 09:53:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 30
+[27-Feb-2018 09:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[27-Feb-2018 09:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[27-Feb-2018 09:54:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:23
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[27-Feb-2018 09:56:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[27-Feb-2018 09:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[27-Feb-2018 09:56:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[27-Feb-2018 09:57:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[27-Feb-2018 09:58:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 25
+[27-Feb-2018 09:58:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 09:58:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 09:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 09:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 09:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:00:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:00:51 UTC] PHP Fatal error:  Cannot 'break' 2 levels in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 32
+[27-Feb-2018 10:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:01:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:02:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:02:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:07:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function array_flatten() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:26
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 26
+[27-Feb-2018 10:19:02 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 23
+[27-Feb-2018 10:23:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function arraykeys() in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php:20
+Stack trace:
+#0 /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php(13): flatten(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 20
+[27-Feb-2018 10:24:05 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 20
+[27-Feb-2018 10:24:05 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, string given in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 21
+[27-Feb-2018 10:29:05 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/trollwebs-backend-test/exercise3/sandbox.php on line 24
