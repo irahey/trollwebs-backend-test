@@ -1,0 +1,1 @@
+Guiding light: http://hayageek.com/login-with-facebook-twitter-google-php

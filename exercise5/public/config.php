@@ -5,29 +5,26 @@
 * (c) 2009-2012, HybridAuth authors | http://hybridauth.sourceforge.net/licenses.html
 */
 
-// ----------------------------------------------------------------------------------------
-//	HybridAuth Config file: http://hybridauth.sourceforge.net/userguide/Configuration.html
-// ----------------------------------------------------------------------------------------
 $config =array(
-		"base_url" => "https://php-irahey.c9users.io/trollwebs-backend-test/exercise5/public/hybridauth/index.php", 
+		"base_url" => "https://irahey.000webhostapp.com/hybridauth/", 
 		"providers" => array ( 
-
+			//I wish to activate the Google login option but I could not do it with Google because I don't have a "paying" account with them. 
+			//They do have a free trial but it still needs some credit card information though...
 			"Google" => array ( 
-				"enabled" => true,
-				"keys"    => array ( "id" => "AIzaSyD8d3_r2hJ370jE92QZxY2tFPyAd55SYwY", "secret" => "397384889462-g975fgnfg7id61anump0sapkt6nvc8ln.apps.googleusercontent.com" ), 
+				"enabled" => false,
+				"keys"    => array ( "id" => "", "secret" => "" ), 
 			),
-
+			//Facebook may or may not work. I think it is because of the nature of the base_url domain. 000webhostapp is only a free service.
 			"Facebook" => array ( 
 				"enabled" => true,
 				"keys"    => array ( "id" => "784698141726175", "secret" => "47a171099a4d4435b6377dc7063d01e4" ), 
 			),
-
+			//Twitter is working
 			"Twitter" => array ( 
 				"enabled" => true,
 				"keys"    => array ( "key" => "7Q4qQIKlT6kjFBCt2PSEaM10u", "secret" => "J2BChOK47BIQE9O6YfPDUjlFfOCcanTwPr4lCysiQNz3cWGwmG" ),
 			),
 		),
-		// if you want to enable logging, set 'debug_mode' to true  then provide a writable file by the web server on "debug_file"
 		"debug_mode" => false,
 		"debug_file" => "",
 	);
